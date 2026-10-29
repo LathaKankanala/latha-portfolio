@@ -6,8 +6,7 @@ export const PROFILE = {
   location: 'Hyderabad, India',
   email: 'kankanala.latha123@gmail.com',
   linkedin: 'https://www.linkedin.com/in/latha-kankanala',
-  // TODO: replace with your GitHub username once the account is created.
-  github: 'https://github.com/latha-kankanala',
+  github: 'https://github.com/LathaKankanala',
   // Put your PDF at public/Latha_Kankanala_Resume.pdf
   resume: 'Latha_Kankanala_Resume.pdf',
   headline: 'I build fast, maintainable Angular front-ends for OTT and enterprise platforms.',
@@ -102,7 +101,7 @@ export const PROJECTS: Project[] = [
     tech: ['Angular 22', 'TypeScript', 'RxJS', 'Signals', 'Reactive Forms', 'Vitest', 'SCSS'],
     // TODO: update after deployment.
     demo: 'https://streamdesk-cms.vercel.app',
-    repo: 'https://github.com/latha-kankanala/streamdesk-cms',
+    repo: 'https://github.com/LathaKankanala/streamdesk-cms',
     images: [
       { src: 'projects/streamdesk-list.png', alt: 'StreamDesk content library with search, filters and a sortable table' },
       { src: 'projects/streamdesk-dashboard.png', alt: 'StreamDesk dashboard with catalogue statistics' },
